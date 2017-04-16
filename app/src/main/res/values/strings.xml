@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Plagarism Check</string>
+    <string name="action_settings">Settings</string>
+    <string name="to_check">So here is a sample sentence. Our delimiters are full stops. Let\'s see how this works.</string>
+</resources>
